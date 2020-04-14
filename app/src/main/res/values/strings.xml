@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Example Android Java</string>
+    <string name="instructions">Enter your email address to sign in to our awesome app!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="success_email_sent">Your sign in email was sent!</string>
+    <string name="failed_email_not_sent">There was a problem sending your email</string>
+    <string name="signed_in">You are signed in. Here\'s a happy pig!</string>
+    <string name="empty"></string>
+    <string name="happy_image">a happy pig</string>
+</resources>
